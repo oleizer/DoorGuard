@@ -8,3 +8,15 @@
 
 // Configuration settings file format documentation can be found at:
 // https://help.apple.com/xcode/#/dev745c5c974
+
+// Compiler
+SDKROOT = iphoneos
+IPHONEOS_DEPLOYMENT_TARGET = 11.0
+TARGETED_DEVICE_FAMILY = 1
+
+// Support files
+INFOPLIST_FILE = Support/Info.plist
+
+// Swift flags
+ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
+
