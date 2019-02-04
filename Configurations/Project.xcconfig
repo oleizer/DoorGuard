@@ -1,0 +1,13 @@
+//
+//  Project.xcconfig
+//  DoorGuard
+//
+//  Created by Олег Лейзер on 04/02/2019.
+//  Copyright © 2019 Олег Лейзер. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+// Product
+PRODUCT_NAME = DoorGuard
+PRODUCT_DISPLAY_NAME = $(PREFIX_DISPLAY_NAME)$(PRODUCT_NAME)
